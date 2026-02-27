@@ -8,11 +8,9 @@
 
 ---
 
-
-  <iframe 
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3499156"
-    style="border:none; width: 100%; height: auto;">
-  </iframe>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ratanxsarkar.png" alt="ratanxsarkar" />
+</p>
 ## 🚀 About This Repository
 
 This repo documents my hands-on practice on **TryHackMe**, where I:

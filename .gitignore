@@ -1,0 +1,5 @@
+# Ignore files and folders starting with underscore
+_*
+
+# Ignore Raw directories
+Raw/
